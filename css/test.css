@@ -1,0 +1,20 @@
+@charset "utf-8";
+*{
+	margin:0;
+	padding:0;
+	border:0;
+}
+.wrapper{
+	width: 100%;
+}
+.banner{
+	width: 888px;
+	height: 228px;
+	border: 8px solid #ff0000;
+	padding: 0 12px;
+	background: #000000;
+	font-size: 64px;
+	text-align: center;
+	color: #ffffff;
+	line-height: 122px;
+}
