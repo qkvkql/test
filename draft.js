@@ -1,0 +1,10 @@
+let classNameOfName = 'k8o46Bca35RzHNtQFy3bH';
+let classNameOfTelNo = 'MitVj_SkY8nrdgXsA8eC2';
+let cName = document.getElementsByClassName(classNameOfName);
+console.log(cName.length);
+console.log(cName[0]);
+console.log(cName[1]);
+console.log(cName[2]);
+console.log(cName[3]);
+console.log(cName[4]);
+console.log(cName[5]);
